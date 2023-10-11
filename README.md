@@ -1,5 +1,5 @@
 # single-node-k8s-cluster
-Single node k8s cluster based on openSUSE tumbleweed running on Vagrant virtual machine with example deployment.
+Single node k8s cluster based on openSUSE Tumbleweed running on Vagrant virtual machine with example deployment.
 
 This Vagrantfile is inspired by https://tuanpembual.wordpress.com/2020/10/15/run-opensuse-kubic-like-k8s-podman-cri-o-on-alibaba-cloud/ - thank you!
 
