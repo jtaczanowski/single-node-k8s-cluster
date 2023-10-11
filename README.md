@@ -13,7 +13,7 @@ In project directory run ```vagrant up```
 
 ### Check if cluster is up and running
 A sample service should be created and running on the cluster, you can check if it is running.
-- by logging to cluster node via ssh `vagrant ssh` and use `kubectl get nodes` and `kubectl get pods --all-namespaces` commands
+- by logging to cluster node via ssh `vagrant ssh` and use `sudo su -`, `kubectl get nodes` and `kubectl get pods --all-namespaces` commands
 ```
 single-node-k8s-cluster$ vagrant ssh
 Have a lot of fun...
